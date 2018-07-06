@@ -1,0 +1,152 @@
+{
+	"markers": [{
+		"agent":[
+				{
+					"terminalId": "60001",
+					"name": "TAWWIN CENTER AGENT",
+					"address": "45, PYAY RD, DAGON TSP",
+					"lat": "16.797824",
+					"long": "96.173115"
+
+				},
+				{
+					"terminalId": "60002",
+					"name": "CITYMART MARKETPLACE AGENT",
+					"address": "405/A, DHAMMAZAYDI ROAD, SHWE TAUNG KYAR TSP",
+					"lat": "16.856344",
+					"long": "96.157574"
+				},
+				{
+					"terminalId": "60003",
+					"name": "JUNCTION SQUARE AGENT",
+					"address": "JUNCTION SQUARE SHOPPING MALL, JUNCTION SQUARE COMPOUND, SANCHAUNG TSP",
+					"lat": "16.804456",
+					"long": "96.137665"
+				},
+				{
+					"terminalId": "60004",
+					"name": "CITYMART THAMINE AGENT",
+					"address": "114, CORNER OF INSEIN RD. & THAMINE STATION ST",
+					"lat": "16.798308",
+					"long": "96.149614"
+				},
+				{
+					"terminalId": "60005",
+					"name": "SSC HOSPITAL AGENT",
+					"address": "7, EAST SHWEGONEDINE ST, BAHAN TSP",
+					"lat": "16.849640",
+					"long": "96.129215"
+				},
+				{
+					"terminalId": "60006",
+					"name": "PYAY ROAD SEINGAYHAR AGENT",
+					"address": "SEIN GAY HAR SHOPPING CENTER, NO.44, PYAY ROAD, DAGON TSP",
+					"lat": "16.783766",
+					"long": "96.157612"
+				},
+				{
+					"terminalId": "60007",
+					"name": "CITYMART SHWEMYAYAR AGENT",
+					"address": "MYA YAR GONE ROAD, MINGALAR TAUNG NYUNT TSP, YANGON",
+					"lat": "16.802819",
+					"long": "96.196105"
+				},
+				{
+					"terminalId": "60008",
+					"name": "BOGOYOKE MARKET AGENT",
+					"address": "BOGYOKE AUNG SAN ROAD, PABETAN TOWNSHIP, YANGON",
+					"lat": "16.774035",
+					"long": "96.178482"
+				},
+				{
+					"terminalId": "60009",
+					"name": "YANGON INT'L AIRPORT ARRIVAL AGENT",
+					"address": "YANGON INTERNATIONAL AIRPORT ARRIVAL, MINGALADON TSP, YANGON, MYANMAR",
+					"lat": "16.778513",
+					"long": "96.159264"
+				},
+				{
+					"terminalId": "60010",
+					"name": "9 MILE OCEANSUPERMARKET AGENT",
+					"address": "9-MILE OCEAN, NORTH POINT SHOPPING CENTRE, CORNER OF PYAY RD AND TAWIN RD, MAYANGONE TSP, YANGON",
+					"lat": "16.774810",
+					"long": "96.149377"
+				}
+		
+		],
+		"atm":[
+				{
+					"terminalId": "50001",
+					"name": "TAWWIN CENTER ATM",
+					"address": "45, PYAY RD, DAGON TSP",
+					"lat": "16.785182",
+					"long": "96.142669"
+
+				},
+				{
+					"terminalId": "50002",
+					"name": "CITYMART MARKETPLACE ATM",
+					"address": "405/A, DHAMMAZAYDI ROAD, SHWE TAUNG KYAR TSP",
+					"lat": "16.828173",
+					"long": "96.155027"
+				},
+				{
+					"terminalId": "50003",
+					"name": "JUNCTION SQUARE ATM",
+					"address": "JUNCTION SQUARE SHOPPING MALL, JUNCTION SQUARE COMPOUND, SANCHAUNG TSP",
+					"lat": "16.817082",
+					"long": "96.130973"
+				},
+				{
+					"terminalId": "50004",
+					"name": "CITYMART THAMINE ATM",
+					"address": "114, CORNER OF INSEIN RD. & THAMINE STATION ST",
+					"lat": "16.862208",
+					"long": "96.121601"
+				},
+				{
+					"terminalId": "50005",
+					"name": "SSC HOSPITAL ATM",
+					"address": "7, EAST SHWEGONEDINE ST, BAHAN TSP",
+					"lat": "16.810842",
+					"long": "96.164907"
+				},
+				{
+					"terminalId": "50006",
+					"name": "PYAY ROAD SEINGAYHAR ATM",
+					"address": "SEIN GAY HAR SHOPPING CENTER, NO.44, PYAY ROAD, DAGON TSP",
+					"lat": "16.785153",
+					"long": "96.143172"
+				},
+				{
+					"terminalId": "50007",
+					"name": "CITYMART SHWEMYAYAR ATM",
+					"address": "MYA YAR GONE ROAD, MINGALAR TAUNG NYUNT TSP, YANGON",
+					"lat": "16.788308",
+					"long": "96.170082"
+				},
+				{
+					"terminalId": "50008",
+					"name": "BOGOYOKE MARKET ATM",
+					"address": "BOGYOKE AUNG SAN ROAD, PABETAN TOWNSHIP, YANGON",
+					"lat": "16.779881",
+					"long": "96.155687"
+				},
+				{
+					"terminalId": "50009",
+					"name": "YANGON INT'L AIRPORT ARRIVAL ATM",
+					"address": "YANGON INTERNATIONAL AIRPORT ARRIVAL, MINGALADON TSP, YANGON, MYANMAR",
+					"lat": "16.902841",
+					"long": "96.135463"
+				},
+				{
+					"terminalId": "50010",
+					"name": "9 MILE OCEANSUPERMARKET ATM",
+					"address": "9-MILE OCEAN, NORTH POINT SHOPPING CENTRE, CORNER OF PYAY RD AND TAWIN RD, MAYANGONE TSP, YANGON",
+					"lat": "16.881130",
+					"long": "96.135009"
+				}
+
+		]		
+	}]
+}
