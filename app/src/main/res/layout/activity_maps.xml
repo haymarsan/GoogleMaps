@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
 <fragment xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:map="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -7,3 +11,78 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MapsActivity" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnAgent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#22ff11"
+            android:text="Agent"
+            />
+
+        <Button
+            android:id="@+id/btnAtm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#22ff11"
+            android:text="ATM"
+            />
+
+        <Button
+            android:id="@+id/btnAll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#22ff11"
+            android:text="ALL"
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/llforDeatil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#ff0033"
+        android:orientation="vertical"
+        android:padding="50dp"
+        android:visibility="gone"
+
+        >
+
+        <TextView
+            android:id="@+id/txtADDetails"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/AGENT_Details_ADD1" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnCall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call"/>
+
+            <Button
+                android:id="@+id/btnFeedBack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="FeedBack"
+                android:textAlignment="center"/>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

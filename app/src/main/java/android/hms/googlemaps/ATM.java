@@ -1,4 +1,4 @@
-package android.hms.readingjsonfile;
+package android.hms.googlemaps;
 
 public class ATM {
     private int terminalID;

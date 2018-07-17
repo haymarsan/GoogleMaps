@@ -2,4 +2,7 @@
     <string name="app_name">GoogleMaps</string>
     <string name="title_activity_maps">MapDemoTest</string>
     <string name="google_maps_key">AIzaSyDul06UyzDio2ln9U3mT2Dvz7dOGGXGtkQ</string>
+    <string name="AGENT_Details_ADD1">TAWWIN CENTER ATM, Address - 45, PYAY RD., DAGON TSP</string>
+    <string name="FB_Title">Please kindly send to us FeedBack!!</string>
+    <string name="Title">Call Center Phone List</string>
 </resources>
